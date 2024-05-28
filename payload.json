@@ -1,0 +1,11 @@
+{
+  "barrier_height": 1.5e-19,
+  "barrier_width": 1e-10,
+  "energies": [1.0e-20, 2.0e-20, 3.0e-20, 4.0e-20, 5.0e-20],
+  "density_spectrum": [0.1, 0.2, 0.3, 0.4, 0.5],
+  "box_length": 1e-9,
+  "oscillator_angular_frequency": 2.0e15,
+  "hydrogen_atomic_number": 1,
+  "momentum": 1.5e-24
+}
+
